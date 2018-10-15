@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ford.fcg.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ford.fcg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ford.fcg_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ford.fcg_main.iml" group="com.ford.fcg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ford.fcg_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ford.fcg_test.iml" group="com.ford.fcg" />
+    </modules>
+  </component>
+</project>
